@@ -1,4 +1,4 @@
-# [ECMAScript](https://github.com/tc39/ecma262) proposals
+#Queenbih87@hopelovings24@gmail.com [ECMAScript](https://github.com/tc39/ecma262) proposals
 
 * [Stage 1 Proposals](stage-1-proposals.md)
 * [Stage 0 Proposals](stage-0-proposals.md)
